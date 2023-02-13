@@ -1,3 +1,3 @@
 URL of the operation video (watch online):
 
-<a >href="https://drive.google.com/drive/folders/1jJa8T1R9kmqTjSI-eAeIXcJapIoBnX_P?usp=share_link" target="_blank">Paper</a>
+https://drive.google.com/drive/folders/1jJa8T1R9kmqTjSI-eAeIXcJapIoBnX_P?usp=share_link
