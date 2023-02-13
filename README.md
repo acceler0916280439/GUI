@@ -1,2 +1,2 @@
 # GUI
-The GUI I've made.
+Here you can find the GUI I've made.
