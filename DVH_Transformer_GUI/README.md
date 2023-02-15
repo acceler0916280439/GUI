@@ -17,11 +17,11 @@
 【DVH_Transformer_GUI操作指南】
 
 * 使用 DVH_Transformer_GUI 須具備的python package：
-	1. pytest-shutil
-	2. PyQt5
-	3. plotly
-	4. pandas
-	5. numpy
+	1. pytest-shutil==1.7.0
+	2. PyQt5==5.15.7
+	3. plotly==5.6.0
+	4. pandas==1.4.1
+	5. numpy==1.22.2
 
 步驟：
 1. 點擊『選取檔案並上傳』，選取欲觀測的DVH檔案(.dvh)。
