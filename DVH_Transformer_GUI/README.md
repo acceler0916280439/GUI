@@ -14,7 +14,7 @@
 * 透過步驟2執行轉檔後，在步驟4所自行添加的額外功能性程式碼將會消失，所以請做好程式碼備份，以便再次移植功能程式碼至GUI主程式。
 
 # ------------------------------------------------------
-![image](https://github.com/acceler0916280439/GUI/blob/main/DVH_Transformer_GUI/GUI.PNG)
+![image](https://github.com/acceler0916280439/GUI/blob/main/DVH_Transformer_GUI/GUI.PNG =)
 
 # ------------------------------------------------------
 【DVH_Transformer_GUI操作指南】
