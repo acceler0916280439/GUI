@@ -16,7 +16,7 @@
 # ------------------------------------------------------
 圖形使用者介面
 
-<img src="https://github.com/acceler0916280439/GUI/blob/main/DVH_Transformer_GUI/GUI.PNG" width="600">
+<img src="https://github.com/acceler0916280439/GUI/blob/main/DVH_Transformer_GUI/GUI.PNG" width="700">
 
 # ------------------------------------------------------
 【DVH_Transformer_GUI操作指南】
