@@ -21,7 +21,7 @@
 # ------------------------------------------------------
 ### 【DVH_Transformer_GUI操作指南】
 
-* 使用 DVH_Transformer_GUI 須具備的python package：
+* 使用 DVH_Transformer_GUI 須具備的python packages：
 	1. pytest-shutil==1.7.0
 	2. PyQt5==5.15.7
 	3. plotly==5.6.0
