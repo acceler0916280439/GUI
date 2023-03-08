@@ -1,4 +1,4 @@
-【GUI設計指南】
+###【GUI設計指南】
 步驟：
 1. 以QT designer 設計完 GUI 並儲存為ui檔 (.ui)
 
@@ -14,12 +14,12 @@
 * 透過步驟2執行轉檔後，在步驟4所自行添加的額外功能性程式碼將會消失，所以請做好程式碼備份，以便再次移植功能程式碼至GUI主程式。
 
 # ------------------------------------------------------
-圖形使用者介面
+###【圖形使用者介面】
 
 <img src="https://github.com/acceler0916280439/GUI/blob/main/DVH_Transformer_GUI/GUI.PNG" width="700">
 
 # ------------------------------------------------------
-【DVH_Transformer_GUI操作指南】
+###【DVH_Transformer_GUI操作指南】
 
 * 使用 DVH_Transformer_GUI 須具備的python package：
 	1. pytest-shutil==1.7.0
